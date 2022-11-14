@@ -1,4 +1,4 @@
-<h1> Hi,
+<h1> Hi, i'm Mathieu !</h1>
 
 <div style="text-align:center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=matjcqm&theme=onedark)]
