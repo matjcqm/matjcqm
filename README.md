@@ -1,8 +1,6 @@
 <h1> Hi, i'm Mathieu !</h1>
 
-<div style="text-align:center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=matjcqm&theme=onedark)]
-</div>
 
 ![](https://komarev.com/ghpvc/?username=matjcqm&color=blue&style=for-the-badge)
 
