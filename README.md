@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/matjcqm/matjcqm/blob/main/img/milky_way_mountain_by_yakub_nihat-wallpaper-2560x1440.jpg)
+
 <!--
 **matjcqm/matjcqm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
