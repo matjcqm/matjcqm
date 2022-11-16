@@ -1,12 +1,9 @@
-<div align="center">
+<img src="img\logo jcqm droite blanc.png" alt="Logo jcqm" height="30px" width="65px"/>
 
-<img src="img\logo jcqm droite blanc.png" alt="Logo jcqm" height="15%"/>
+<h1 align="center">Hi 👋, i'm Mathieu !</h1>
+<h2 align="center">🔰  A french web developer in making  🔰</h2>
 
-<h1>Hi 👋, i'm Mathieu !</h1>
-
-<h2>🔰 A french web developer in making 🔰</h2>
-
-<p> Ex admin sys, I am currently training to become a frontend developer.<p>
+<h3 align="center"> Ex admin sys, I am currently training to become a frontend developer.<p>
 
 <p>
   <img
@@ -31,20 +28,16 @@
   /> -->
 </p>
 
-</div>
-
 ![](https://komarev.com/ghpvc/?username=matjcqm&color=blue&style=for-the-badge)
 
-<p font size="20px">
 - 💻 I’m currently working on [Kanap](https://github.com/matjcqm/P5-Openclassrooms), the 5/7 project of my formation
 - 📚 I’m currently learning <img align="center" src="img\javascript.png" width="30px"/>.
 - ✏️ I write articles and tips and tricks on my blog [COMMING SOON]
 - 🚀 All of my projects are available at [COMMING SOON]
 - 📭 How to reach me: **mathieu@jcqm.fr**
 - 😄 About me: 🐺🌎🎓🔨🚴🌄🎮🍜🤘
-</p>
 
-<p>Languages and Tools :</p>
+<h3 align="left">Languages and Tools :</h3>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -53,13 +46,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 
-<p>Connect with me :</p>
+<h3 align="left">Connect with me :</h3>
 <p>
     <a href="https://www.linkedin.com/in/mathieu-jacquemin/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
     <a href="https://twitter.com/matjcqm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://discord.gg/Mat.jcqm#0997" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" /></a>
+    <a href="https://discord.gg/Mat.jcqm#0997" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" margin-top="10px"/></a>
 </p>
 
+ <br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=matjcqm&theme=onedark)
 
 🔚
