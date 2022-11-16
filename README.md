@@ -35,13 +35,14 @@
 
 ![](https://komarev.com/ghpvc/?username=matjcqm&color=blue&style=for-the-badge)
 
+<p font size="20px">
 - 💻 I’m currently working on [Kanap](https://github.com/matjcqm/P5-Openclassrooms), the 5/7 project of my formation
-- 📚 I’m currently learning <img src="img\javascript.png" width="15px"/>.
-- ✏️ I write articles and tips and tricks on my blog 🔜
-- 🚀 All of my projects are available at 🔜
+- 📚 I’m currently learning <img align="center" src="img\javascript.png" width="30px"/>.
+- ✏️ I write articles and tips and tricks on my blog [COMMING SOON]
+- 🚀 All of my projects are available at [COMMING SOON]
 - 📭 How to reach me: **mathieu@jcqm.fr**
 - 😄 About me: 🐺🌎🎓🔨🚴🌄🎮🍜🤘
-- ⚡ Fun fact: ...
+</p>
 
 <p>Languages and Tools :</p>
 <p>
@@ -56,7 +57,7 @@
 <p>
     <a href="https://www.linkedin.com/in/mathieu-jacquemin/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
     <a href="https://twitter.com/matjcqm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://discord.gg/Mat.jcqm#0997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+    <a href="https://discord.gg/Mat.jcqm#0997" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" /></a>
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=matjcqm&theme=onedark)
