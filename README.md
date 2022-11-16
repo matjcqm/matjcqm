@@ -1,14 +1,12 @@
 <div align="center">
-<img src="img\logo jcqm droite blanc.png" alt="Logo jcqm" height="110px"/>
+<img src="img\logo jcqm droite blanc.png" alt="Logo jcqm" height="180px"/>
 </div>
 
 <h1 align="center">Hi 👋, i'm Mathieu !</h1>
 <h2 align="center">🔰  A french web developer in making  🔰</h2>
 
 <h3 align="center"> Ex admin sys, I am currently training to become a frontend developer.<p>
-
 <br>
-
 <p>
   <img
     src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"
@@ -31,19 +29,15 @@
     width="15%"
   /> -->
 </p>
+<br>
 
-![](https://komarev.com/ghpvc/?username=matjcqm&color=blue&style=for-the-badge)
-
-
-
-<div align="left">
 - 💻 I’m currently working on [Kanap](https://github.com/matjcqm/P5-Openclassrooms), the 5/7 project of my formation
-- 📚 I’m currently learning <img align="center" src="img\javascript.png" width="30px"/>.
+- 📚 I’m currently learning <img src="img\javascript.png" width="30px"/>.
 - ✏️ I write articles and tips and tricks on my blog [COMMING SOON]
 - 🚀 All of my projects are available at [COMMING SOON]
 - 📭 How to reach me: **mathieu@jcqm.fr**
 - 😄 About me: 🐺🌎🎓🔨🚴🌄🎮🍜🤘
-</div>
+
 
 <br>
 
@@ -66,5 +60,6 @@
  <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=matjcqm&theme=onedark)
+<br>
+![](https://komarev.com/ghpvc/?username=matjcqm&color=blue&style=for-the-badge)
 
-🔚
