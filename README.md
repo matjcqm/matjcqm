@@ -1,4 +1,6 @@
-<img align="center src="img\logo jcqm droite blanc.png" alt="Logo jcqm" height="110px"/>
+<div align="center">
+<img src="img\logo jcqm droite blanc.png" alt="Logo jcqm" height="110px"/>
+</div>
 
 <h1 align="center">Hi 👋, i'm Mathieu !</h1>
 <h2 align="center">🔰  A french web developer in making  🔰</h2>
@@ -32,14 +34,16 @@
 
 ![](https://komarev.com/ghpvc/?username=matjcqm&color=blue&style=for-the-badge)
 
-<p align="left">
+
+
+<div align="left">
 - 💻 I’m currently working on [Kanap](https://github.com/matjcqm/P5-Openclassrooms), the 5/7 project of my formation
 - 📚 I’m currently learning <img align="center" src="img\javascript.png" width="30px"/>.
 - ✏️ I write articles and tips and tricks on my blog [COMMING SOON]
 - 🚀 All of my projects are available at [COMMING SOON]
 - 📭 How to reach me: **mathieu@jcqm.fr**
 - 😄 About me: 🐺🌎🎓🔨🚴🌄🎮🍜🤘
-</p>
+</div>
 
 <br>
 
