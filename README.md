@@ -31,14 +31,14 @@
 </p>
 <br>
 
+<p align="left">
 - 💻 I’m currently working on [Kanap](https://github.com/matjcqm/P5-Openclassrooms), the 5/7 project of my formation
-- 📚 I’m currently learning <img src="img\javascript.png" width="30px"/>.
+- 📚 I’m currently learning <img align="center" src="img\javascript.png" width="30px"/>.
 - ✏️ I write articles and tips and tricks on my blog [COMMING SOON]
 - 🚀 All of my projects are available at [COMMING SOON]
 - 📭 How to reach me: **mathieu@jcqm.fr**
 - 😄 About me: 🐺🌎🎓🔨🚴🌄🎮🍜🤘
-
-
+</p>
 <br>
 
 <h3 align="left">Languages and Tools :</h3>
@@ -62,4 +62,3 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=matjcqm&theme=onedark)
 <br>
 ![](https://komarev.com/ghpvc/?username=matjcqm&color=blue&style=for-the-badge)
-
