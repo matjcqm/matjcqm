@@ -31,7 +31,7 @@
 </div>
 <br>
 
-- 💻 I’m currently working on [Kanap](https://github.com/matjcqm/P5-Openclassrooms), the 5/7 project of my formation
+- 💻 I’m currently working on [Piiquante](https://github.com/matjcqm/P6-Openclassrooms), the 6/7 project of my formation
 - 📚 I’m currently learning <img align="center" src="img\javascript.png" width="30px"/>.
 - ✏️ I write articles and tips and tricks on my blog [COMMING SOON]
 - 🚀 All of my projects are available at [COMMING SOON]
