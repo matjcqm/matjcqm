@@ -32,7 +32,7 @@
 <br>
 
 - 💻 I’m currently working on [Kasa](https://github.com/matjcqm/p7-openclassrooms), the 7/7 project of my formation
-- 📚 I’m currently learning <img align="center" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30px"/>.
+- 📚 I’m currently learning <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30px"/>.
 - ✏️ I write articles and tips and tricks on my blog [COMMING SOON]
 - 🚀 All of my projects are available at [COMMING SOON]
 - 📭 How to reach me: **mathieu@jcqm.fr**
