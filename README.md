@@ -22,17 +22,17 @@
     alt="js-logo-gif"
     width="15%"
   />
-   <!-- <img
+   <img
     src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"
     alt="react-logo-gif"
     width="15%"
-  /> -->
+  />
 </p>
 </div>
 <br>
 
-- 💻 I’m currently working on [Piiquante](https://github.com/matjcqm/P6-Openclassrooms), the 6/7 project of my formation
-- 📚 I’m currently learning <img align="center" src="img\javascript.png" width="30px"/>.
+- 💻 I’m currently working on [Kasa](https://github.com/matjcqm/p7-openclassrooms), the 7/7 project of my formation
+- 📚 I’m currently learning <img align="center" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30px"/>.
 - ✏️ I write articles and tips and tricks on my blog [COMMING SOON]
 - 🚀 All of my projects are available at [COMMING SOON]
 - 📭 How to reach me: **mathieu@jcqm.fr**
@@ -47,6 +47,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+
 </p>
 
 <h3 align="left">Connect with me :</h3>
