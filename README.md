@@ -2,9 +2,9 @@
 <img src="img\logo jcqm droite blanc.png" alt="Logo jcqm" height="180px"/>
 
 <h1>Hi 👋, i'm Mathieu !</h1>
-<h2>🔰  A french web developer in making  🔰</h2>
+<h2>A french front-end developer</h2>
 <br>
-<h3> Ex admin sys, I am currently training to become a frontend developer.<p>
+<h3> Ex admin sys, I am currently working as a freelance developer and independent IT consultant.<p>
 <br>
 <p>
   <img
