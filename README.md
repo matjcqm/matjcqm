@@ -1,5 +1,5 @@
 <div align="center">
-<img src="img\logo jcqm droite blanc.png" alt="Logo jcqm" height="180px"/>
+<img src="img\logo-jcqm.png" alt="Logo jcqm" height="180px"/>
 
 <h1>Hi 👋, i'm Mathieu !</h1>
 <h2>A french front-end developer</h2>
