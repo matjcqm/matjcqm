@@ -2,9 +2,9 @@
 <img src="img\logo-jcqm.png" alt="Logo jcqm" height="180px"/>
 
 <h1>Hi 👋, i'm Mathieu !</h1>
-<h2>A french front-end developer</h2>
+<h2>A french front-end developer & admin sys</h2>
 <br>
-<h3> Ex admin sys, I am currently working as a freelance developer and independent IT consultant.<p>
+<h3> I am currently working as an independent admin sys.<p>
 <br>
 <p>
   <img
@@ -31,10 +31,9 @@
 </div>
 <br>
 
-- 💻 I’m currently working on [Kasa](https://github.com/matjcqm/p7-openclassrooms), the 7/7 project of my formation
+- 💻 I’m currently working on [jcqm](https://www.jcqm.fr)
 - 📚 I’m currently learning <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30px"/>.
-- ✏️ I write articles and tips and tricks on my blog [COMMING SOON]
-- 🚀 All of my projects are available at [COMMING SOON]
+- 🚀 All of my projects are available on my profile
 - 📭 How to reach me: **mathieu@jcqm.fr**
 - 😄 About me: 🐺🌎🎓🔨🚴🌄🎮🍜🤘
 
