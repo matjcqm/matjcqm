@@ -31,7 +31,7 @@
 </div>
 <br>
 
-- 💻 I’m currently working on [jcqm](https://www.jcqm.fr)
+- 💻 I’m currently working at [jcqm](https://www.jcqm.fr)
 - 📚 I’m currently learning <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30px"/>.
 - 🚀 All of my projects are available on my profile
 - 📭 How to reach me: **mathieu@jcqm.fr**
